@@ -3,7 +3,6 @@
 	include 'includes/slider.php';
 ?>
 <style>
-	
 	.not_found {
     font-size: 30px;
     font-weight: bold;
