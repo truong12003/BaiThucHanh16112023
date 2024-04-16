@@ -17,7 +17,6 @@
         }
     }
 ?>
-
  <!-- MAIN -->
  <main class="site-main shopping-cart">
         <div class="container">
