@@ -70,8 +70,7 @@
 						</table>
 						
 						
-				
-					
+								
 					</div>
 					<div class="shopping">
 						<div class="shopleft">
